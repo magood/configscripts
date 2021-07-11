@@ -1,0 +1,5 @@
+[user]
+	email = matthewcgood@gmail.com
+	name = Matt Good
+[credential]
+	helper = cache

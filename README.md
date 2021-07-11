@@ -1,2 +1,2 @@
 # configscripts
-Miscellaneous collection of setup/configuration/bootstrapping scripts
+Miscellaneous dev config example files - Windows terminal config scripts, Oh My Posh configs, VS Code settings files backups, fun terminal backgrounds, etc.  Most will require modification probably - use as examples of what I liked at one point in time.

@@ -1,0 +1,20 @@
+{
+    "terminal.integrated.shell.windows": "C:\\WINDOWS\\System32\\wsl.exe",
+    "remote.extensionKind": {
+        "ms-azuretools.vscode-docker": "workspace"
+    },
+    "remote.SSH.remotePlatform": {
+        "192.168.0.155": "linux"
+    },
+    "workbench.editorAssociations": {
+        "*.ipynb": "jupyter.notebook.ipynb"
+    },
+    "python.languageServer": "Microsoft",
+    "python.formatting.provider": "black",
+    "python.formatting.blackPath": "/home/mgood/.local/bin/black",
+    "python.formatting.blackArgs": [
+        "--line-length",
+        "137"
+    ],
+    "terminal.integrated.fontFamily": "CaskaydiaCove NF"
+}
